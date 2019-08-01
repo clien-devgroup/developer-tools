@@ -3,7 +3,7 @@
 
 | 제작자 | OS | 이름 | 핵심 기능 | 설명 | 링크 |
 |----|--------|------|-----------|---------|----|
-| MS | 🐧🖼 | [Visual Studio Code](#visual-studio-code) | 코드 에디터 | 오픈소스 기반, 자동완성, 디버깅, 플러그인(익스텐션) 지원 | [홈페이지](https://code.visualstudio.com/) |
+| [MS](https://www.microsoft.com) | 🐧🖼 | [Visual Studio Code](#visual-studio-code) | 코드 에디터 | 오픈소스 기반, 자동완성, 디버깅, 플러그인(익스텐션) 지원 | [홈페이지](https://code.visualstudio.com/) |
 
 ## Visual Studio Code
 
