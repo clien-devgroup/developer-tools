@@ -9,3 +9,10 @@
 
 MS에서 만든 오픈 소스 기반의 무료 에디터. 모든 OS에서 동작 가능하다. 
 많은 익스텐션(플러그인)들을 유저들이 만들어 오픈소스로 제공하고 있으며 [일렉트론](https://electronjs.org/)을 기반으로 구동된다. 
+
+## Color Picker
+
+프론트엔드 개발을 하다보면 필수로 사용하게 되는 Color Picker.
+
+Mac: Digital Color Meter
+Window: Color Cop
