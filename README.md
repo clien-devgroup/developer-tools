@@ -14,5 +14,5 @@ MS에서 만든 오픈 소스 기반의 무료 에디터. 모든 OS에서 동작
 
 프론트엔드 개발을 하다보면 필수로 사용하게 되는 Color Picker.
 
-Mac: Digital Color Meter
-Window: Color Cop
+Mac: Digital Color Meter(기본 설치)
+Window: [Color Cop](http://colorcop.net/download/)
