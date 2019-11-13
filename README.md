@@ -6,6 +6,7 @@
 | [MS](https://www.microsoft.com) | 🐧🖼 | [Visual Studio Code](#visual-studio-code) | 코드 에디터 | 오픈소스 기반, 자동완성, 디버깅, 플러그인(익스텐션) 지원 | [홈페이지](https://code.visualstudio.com/)|
 | [Apple](https://www.apple.com) |  | Digital Color Meter | Color Picking | 화면상의 컬러 추출 | 기본 설치되어 있음 |
 | [MS](https://www.microsoft.com) | 🖼 | Color Cop | Color Picking | 화면상의 컬러 추출 | [Download](http://colorcop.net/download/) |
+| [Eclipse Foundation](https://www.eclipse.org)|🐧🖼|[Eclipse](https://www.eclipse.org/)| 코드에디터 | 오픈소스 기반, 자동완성, 디버깅, 플러그인 지원|[홈페이지](https://www.eclipse.org)|
 
 ## Visual Studio Code
 
@@ -18,3 +19,8 @@ MS에서 만든 오픈 소스 기반의 무료 에디터. 모든 OS에서 동작
 
 Mac: Digital Color Meter(기본 설치)
 Window: [Color Cop](http://colorcop.net/download/)
+
+## Eclipse
+
+Eclipse Foundation에서 개발한 오픈 소스 기반의 통합개발환경
+다양한 os에서 동작
