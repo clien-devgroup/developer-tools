@@ -23,4 +23,4 @@ Window: [Color Cop](http://colorcop.net/download/)
 ## IntelliJ IDEA
 
 JetBrain에서 만든 Java기반의 에디터. 무료버전인 커뮤니티 버전과 유료버전인 얼티밋이 있으며, [Java/Swing](https://www.oracle.com/technetwork/java/architecture-142923.html)으로 개발되었습니다.
-유료버전은 Prepetual Fallback License가 제공되어, 구매당시 버전을 영구적으로 쓸수 있는 라이센스입니다.
+유료버전은 Perpetual Fallback License가 제공되어, 구매당시 버전을 영구적으로 쓸수 있는 라이센스입니다.
