@@ -24,7 +24,9 @@ Window: [Color Cop](http://colorcop.net/download/)
 
 Eclipse Foundation에서 개발한 오픈 소스 기반의 통합개발환경
 
+
+
 장점
-+ 다양한 os에서 동작함
-+ 여러 언어를 지원함(JAVA, C/C++, Python등)
-+ 방대한 플러그인을 지원함
++ Windows, macOS, 리눅스 등에서 자유롭게 사용할 수 있습니다.
++ 자바 개발용으로 쓰이는 경우가 많지만 플러그인을 통해 여러 언어의 개발을 지원하고 있습니다.(C/C++, Python등)
++ 다양한 플러그인을 지원하기 때문에 개발에 많은 도움이 됩니다.
