@@ -6,7 +6,7 @@
 | [MS](https://www.microsoft.com) | 🐧🖼 | [Visual Studio Code](#visual-studio-code) | 코드 에디터 | 오픈소스 기반, 자동완성, 디버깅, 플러그인(익스텐션) 지원 | [홈페이지](https://code.visualstudio.com/)|
 | [Apple](https://www.apple.com) |  | Digital Color Meter | Color Picking | 화면상의 컬러 추출 | 기본 설치되어 있음 |
 | [MS](https://www.microsoft.com) | 🖼 | Color Cop | Color Picking | 화면상의 컬러 추출 | [Download](http://colorcop.net/download/) |
-| [JetBrains](https://www.jetbrains.com) | windows,macOS,linux | [IntelliJ IDEA](#Intellij-IDEA) | IDE | Code Completion, 리팩토링, 테스트/디버깅, 플러그인 지원 | [홈페이지](https://www.jetbrains.com/idea/) |
+| [JetBrains](https://www.jetbrains.com) | 🐧🖼 | [IntelliJ IDEA](#Intellij-IDEA) | IDE | Code Completion, 리팩토링, 테스트/디버깅, 플러그인 지원 | [홈페이지](https://www.jetbrains.com/idea/) |
 
 ## Visual Studio Code
 
