@@ -23,4 +23,8 @@ Window: [Color Cop](http://colorcop.net/download/)
 ## Eclipse
 
 Eclipse Foundation에서 개발한 오픈 소스 기반의 통합개발환경
-다양한 os에서 동작
+
+장점
++ 다양한 os에서 동작함
++ 여러 언어를 지원함(JAVA, C/C++, Python등)
++ 방대한 플러그인을 지원함
