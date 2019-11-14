@@ -6,6 +6,7 @@
 | [MS](https://www.microsoft.com) | 🐧🖼 | [Visual Studio Code](#visual-studio-code) | 코드 에디터 | 오픈소스 기반, 자동완성, 디버깅, 플러그인(익스텐션) 지원 | [홈페이지](https://code.visualstudio.com/)|
 | [Apple](https://www.apple.com) |  | Digital Color Meter | Color Picking | 화면상의 컬러 추출 | 기본 설치되어 있음 |
 | [MS](https://www.microsoft.com) | 🖼 | Color Cop | Color Picking | 화면상의 컬러 추출 | [Download](http://colorcop.net/download/) |
+| [JetBrains](https://www.jetbrains.com) | 🐧🖼 | [IntelliJ IDEA](#Intellij-IDEA) | IDE | Code Completion, 리팩토링, 테스트/디버깅, 플러그인 지원 | [홈페이지](https://www.jetbrains.com/idea/) |
 
 ## Visual Studio Code
 
@@ -18,3 +19,8 @@ MS에서 만든 오픈 소스 기반의 무료 에디터. 모든 OS에서 동작
 
 Mac: Digital Color Meter(기본 설치)
 Window: [Color Cop](http://colorcop.net/download/)
+
+## IntelliJ IDEA
+
+JetBrain에서 만든 Java기반의 에디터. 무료버전인 커뮤니티 버전과 유료버전인 얼티밋이 있으며, [Java/Swing](https://www.oracle.com/technetwork/java/architecture-142923.html)으로 개발되었습니다.
+유료버전은 Perpetual Fallback License가 제공되어, 구매당시 버전을 영구적으로 쓸수 있는 라이센스입니다.
