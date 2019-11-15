@@ -7,6 +7,8 @@
 | [Apple](https://www.apple.com) |  | Digital Color Meter | Color Picking | 화면상의 컬러 추출 | 기본 설치되어 있음 |
 | [MS](https://www.microsoft.com) | 🖼 | Color Cop | Color Picking | 화면상의 컬러 추출 | [Download](http://colorcop.net/download/) |
 | [JetBrains](https://www.jetbrains.com) | 🐧🖼 | [IntelliJ IDEA](#Intellij-IDEA) | IDE | Code Completion, 리팩토링, 테스트/디버깅, 플러그인 지원 | [홈페이지](https://www.jetbrains.com/idea/) |
+| [Eclipse Foundation](https://www.eclipse.org)|🐧🖼|[Eclipse](https://www.eclipse.org/)| 코드에디터 | 오픈소스 기반, 자동완성, 디버깅, 플러그인 지원|[홈페이지](https://www.eclipse.org)|
+
 
 ## Visual Studio Code
 
@@ -24,3 +26,14 @@ Window: [Color Cop](http://colorcop.net/download/)
 
 JetBrain에서 만든 Java기반의 에디터. 무료버전인 커뮤니티 버전과 유료버전인 얼티밋이 있으며, [Java/Swing](https://www.oracle.com/technetwork/java/architecture-142923.html)으로 개발되었습니다.
 유료버전은 Perpetual Fallback License가 제공되어, 구매당시 버전을 영구적으로 쓸수 있는 라이센스입니다.
+
+## Eclipse
+
+Eclipse Foundation에서 개발한 오픈 소스 기반의 통합개발환경
+
+
+
+장점
++ Windows, macOS, 리눅스 등에서 자유롭게 사용할 수 있습니다.
++ 자바 개발용으로 쓰이는 경우가 많지만 플러그인을 통해 여러 언어의 개발을 지원하고 있습니다.(C/C++, Python등)
++ 다양한 플러그인을 지원하기 때문에 개발에 많은 도움이 됩니다.
