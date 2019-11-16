@@ -8,7 +8,7 @@
 | [MS](https://www.microsoft.com) | 🖼 | Color Cop | Color Picking | 화면상의 컬러 추출 | [Download](http://colorcop.net/download/) |
 | [JetBrains](https://www.jetbrains.com) | 🐧🖼 | [IntelliJ IDEA](#Intellij-IDEA) | IDE | Code Completion, 리팩토링, 테스트/디버깅, 플러그인 지원 | [홈페이지](https://www.jetbrains.com/idea/) |
 | [Eclipse Foundation](https://www.eclipse.org)|🐧🖼|[Eclipse](https://www.eclipse.org/)| 코드에디터 | 오픈소스 기반, 자동완성, 디버깅, 플러그인 지원|[홈페이지](https://www.eclipse.org)|
-| [Apple](https://www.apple.com) |  | [Noizio for macOS, iOS](#noizio) | 백색 소음 | 상용, 자연의 소리, 소리 믹스로 원하는 소음 조합 가능 | [홈페이지](https://noiz.io/)|
+| [noiz.io](https://noiz.io/) |  | [Noizio for macOS, iOS](#Noizio-for-macOS,-iOS) | 백색 소음 | 상용, 자연의 소리, 소리 믹스로 원하는 소음 조합 가능 | [홈페이지](https://noiz.io/)|
 
 ## Visual Studio Code
 
