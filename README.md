@@ -10,6 +10,7 @@
 | [Eclipse Foundation](https://www.eclipse.org)|🐧🖼|[Eclipse](https://www.eclipse.org/)| 코드에디터 | 오픈소스 기반, 자동완성, 디버깅, 플러그인 지원|[홈페이지](https://www.eclipse.org)|
 | ClimStudio |  | [JustFocus](#JustFocus) | 시간 관리 툴 | 뽀모도로 타이머로 브레이크 시간이 되면 자동으로 화면이 페이드아웃 된다  |[JustFocus](http://getjustfocus.com) 혹은 [AppStore](https://apps.apple.com/us/app/just-focus/id1142151959?mt=12)|
 | [noiz.io](https://noiz.io/) |  | [Noizio for macOS, iOS](#Noizio-for-macOS,-iOS) | 백색 소음 | 상용, 자연의 소리, 소리 믹스로 원하는 소음 조합 가능 | [홈페이지](https://noiz.io/)|
+| [Atlassian](https://www.atlassian.com/) | 🖼 | [SourceTree](#sourcetree) | Git GUI tool | GIT을 GUI로 사용자가 더 쉽게 사용할 수 있도록 하는 프로그램 | [홈페이지](https://www.sourcetreeapp.com/) |
 
 ## Visual Studio Code
 
@@ -54,4 +55,6 @@ Eclipse Foundation에서 개발한 오픈 소스 기반의 통합개발환경
 - 브레이크 시간이 되면 자동 페이드 아웃
 - 기록 남기기(로그)
 
+## SourceTree
 
+Atlassian에서 개발한 GIT을 GUI로 사용자가 더 쉽게 사용할 수 있도록 하는 프로그램입니다. 소스트리는 Windows와 Mac OS를 지원하고 있습니다. 라이센스는 무료로 사용할 수 있습니다.
