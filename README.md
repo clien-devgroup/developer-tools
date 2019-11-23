@@ -58,3 +58,17 @@ Eclipse Foundation에서 개발한 오픈 소스 기반의 통합개발환경
 ## SourceTree
 
 Atlassian에서 개발한 GIT을 GUI로 사용자가 더 쉽게 사용할 수 있도록 하는 프로그램입니다. 소스트리는 Windows와 Mac OS를 지원하고 있습니다. 라이센스는 무료로 사용할 수 있습니다.
+
+## Dev-C++
+
+ Dev-C++ 은 간단하게 C나 C++을 개발할 수 있는 통합 개발 환경으로 설치가 2~5분 정도로 빠르고 가벼워 언제 어디서도 사용하기 편한 통합개발환경입니다.
+
+[다운로드  https://sourceforge.net/projects/orwelldevcpp/](https://sourceforge.net/projects/orwelldevcpp/)
++ GNU 라이선스로 보급되는 사용이 자유로운 C/C++ 언어의 통합 개발 환경
++ 오픈 소스이자 자유 컴파일러인 MinGW 컴파일러와 함께 제공된다
+
++ 윈도 환경에서만 사용할 수 있다. 그러나 리눅스 용으로도 개발되고 있다. 헤더 파일과 경로 구분 문자는 플랫폼 간에 전환할 수 있다.
+
+[설명출처 https://ko.wikipedia.org/wiki/Dev-C%2B%2B](https://ko.wikipedia.org/wiki/Dev-C%2B%2B)
+
+
