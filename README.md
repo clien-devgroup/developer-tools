@@ -11,7 +11,7 @@
 | ClimStudio |  | [JustFocus](#JustFocus) | 시간 관리 툴 | 뽀모도로 타이머로 브레이크 시간이 되면 자동으로 화면이 페이드아웃 된다  |[JustFocus](http://getjustfocus.com) 혹은 [AppStore](https://apps.apple.com/us/app/just-focus/id1142151959?mt=12)|
 | [noiz.io](https://noiz.io/) |  | [Noizio for macOS, iOS](#Noizio-for-macOS,-iOS) | 백색 소음 | 상용, 자연의 소리, 소리 믹스로 원하는 소음 조합 가능 | [홈페이지](https://noiz.io/)|
 | [Atlassian](https://www.atlassian.com/) | 🖼 | [SourceTree](#sourcetree) | Git GUI tool | GIT을 GUI로 사용자가 더 쉽게 사용할 수 있도록 하는 프로그램 | [홈페이지](https://www.sourcetreeapp.com/) |
-|[Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)||[Dev-C++](#Dev-C++)|C,C++통합개발환경|프리웨어, 디버깅, gcc확장가능|[Download](https://sourceforge.net/projects/orwelldevcpp/)|
+|[Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)|🖼|[Dev-C++](#Dev-C++)|C,C++통합개발환경|프리웨어, 디버깅, gcc확장가능|[Download](https://sourceforge.net/projects/orwelldevcpp/)|
 
 
 ## Visual Studio Code
@@ -65,7 +65,7 @@ Atlassian에서 개발한 GIT을 GUI로 사용자가 더 쉽게 사용할 수 �
 
  Dev-C++ 은 간단하게 C나 C++을 개발할 수 있는 통합 개발 환경으로 설치가 2~5분 정도로 빠르고 가벼워 언제 어디서도 사용하기 편한 통합개발환경입니다.
 
-[다운로드  https://sourceforge.net/projects/orwelldevcpp/](https://sourceforge.net/projects/orwelldevcpp/)
+[다운로드](https://sourceforge.net/projects/orwelldevcpp/)
 + GNU 라이선스로 보급되는 사용이 자유로운 C/C++ 언어의 통합 개발 환경
 + 오픈 소스이자 자유 컴파일러인 MinGW 컴파일러와 함께 제공된다
 
