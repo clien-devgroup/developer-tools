@@ -11,12 +11,9 @@
 | ClimStudio |  | [JustFocus](#JustFocus) | 시간 관리 툴 | 뽀모도로 타이머로 브레이크 시간이 되면 자동으로 화면이 페이드아웃 된다  |[JustFocus](http://getjustfocus.com) 혹은 [AppStore](https://apps.apple.com/us/app/just-focus/id1142151959?mt=12)|
 | [noiz.io](https://noiz.io/) |  | [Noizio for macOS, iOS](#Noizio-for-macOS,-iOS) | 백색 소음 | 상용, 자연의 소리, 소리 믹스로 원하는 소음 조합 가능 | [홈페이지](https://noiz.io/)|
 | [Atlassian](https://www.atlassian.com/) | 🖼 | [SourceTree](#sourcetree) | Git GUI tool | GIT을 GUI로 사용자가 더 쉽게 사용할 수 있도록 하는 프로그램 | [홈페이지](https://www.sourcetreeapp.com/) |
-<<<<<<< HEAD
 | Fork Dev | 🐧🖼 | Fork | Git Gui Tool | Git Branch를 쉽게 파악하며 버전관리 | [홈페이지](https://forkapp.io/) |
-=======
 |[Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)|🖼|[Dev-C++](#devc++)|C,C++통합개발환경|프리웨어, 디버깅, gcc확장가능|[Download](https://sourceforge.net/projects/orwelldevcpp/)|
 
->>>>>>> upstream/master
 
 ## Visual Studio Code
 
@@ -65,13 +62,11 @@ Eclipse Foundation에서 개발한 오픈 소스 기반의 통합개발환경
 
 Atlassian에서 개발한 GIT을 GUI로 사용자가 더 쉽게 사용할 수 있도록 하는 프로그램입니다. 소스트리는 Windows와 Mac OS를 지원하고 있습니다. 라이센스는 무료로 사용할 수 있습니다.
 
-<<<<<<< HEAD
 ## Fork
 
 Git을 사용하시는 분들은 이 프로그램을 통해 브랜치 기준의 형상관리를 경험할수 있습니다. 이 프로그램을 메인으로 사용하기 보단 소스트리나 크라켓등 메인형상관리 프로그램의 보조적인 역할로 사용하면 좋겠습니다.
 
 역시 장점은 브랜치를 비주얼적으로 잘 표현하고 있다는 것이겠지요. 추천합니다.
-=======
 <h2 id="devc++">Dev-C++</h3>
 
  Dev-C++ 은 간단하게 C나 C++을 개발할 수 있는 통합 개발 환경으로 설치가 2~5분 정도로 빠르고 가벼워 언제 어디서도 사용하기 편한 통합개발환경입니다.
@@ -85,4 +80,3 @@ Git을 사용하시는 분들은 이 프로그램을 통해 브랜치 기준의 
 [설명출처](https://ko.wikipedia.org/wiki/Dev-C%2B%2B)
 
 
->>>>>>> upstream/master
